@@ -1,17 +1,21 @@
-### Hi 👋
+# Hello, I'm Dimitris 👋
 
-<!--
-**dimcel/dimcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ML/DL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with MLOPS
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Curious
--->
-- 🌱 I’m currently learning ML/DL
-- 🤔 I’m looking for help with MLOPS
-- 💬 Ask me about anything
-- 📫 How to reach me: DM
+I'm a passionate data scientist with a knack for turning raw data into meaningful insights. My journey in the world of data encompasses exploration, analysis, and storytelling. Let's dive into the data-driven universe together!
+
+## 🔍 What I Do
+
+- **Data Exploration & Analysis:** Unveiling hidden patterns and trends.
+- **Machine Learning:** Building models that learn and adapt.
+- **Data Visualization:** Transforming data into compelling visual stories.
+
+## 🚀 Skills
+
+- **Languages:** Python, Bash, Go
+- **Tools & Libraries:** Pandas, NumPy, Scikit-Learn, Pytorch, Matplotlib, Seaborn
+- **Databases:** SQL, MongoDB, Neo4j
+
+## 📈 Let's Collaborate
+
+Have an interesting project or collaboration in mind? Let's connect and bring data to life!
