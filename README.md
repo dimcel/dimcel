@@ -1,6 +1,3 @@
-# Hi
----
-
 ## 🔧 What I Do
 
 * 🧠 **Machine Learning:** Building models & agents across audio, text, image & video data
@@ -12,5 +9,3 @@
 * 🗣️ **Languages:** Python, Go
 * 📦 **Tools:** PyTorch, Scikit-learn, LangGraph
 * 🛢️ **Databases:** SQL, MongoDB, Neo4j
-
----
