@@ -1,14 +1,16 @@
-# Hello, I'm Dimitris 👋
+# Hi
+---
 
-## 🔍 What I Do
+## 🔧 What I Do
 
-- **Data Exploration & Analysis:** Unveiling hidden patterns and trends.
-- **Machine Learning:** Building models, agents, and many more.
-- **Data Visualization:** Transforming data into compelling visual stories.
+* 🧠 **Machine Learning:** Building models & agents across audio, text, image & video data
+* 💻 **Software Development:** Creating robust backend systems & tools
+* 🧪 **AI Prototyping:** Rapid experimentation with cutting-edge ML stacks
 
 ## 🚀 Skills
 
-- **Languages:** Python, Bash, Go
-- **Tools & Libraries:** Scikit-Learn, Pytorch, LangGraph
-- **Databases:** SQL, MongoDB, Neo4j
+* 🗣️ **Languages:** Python, Go
+* 📦 **Tools:** PyTorch, Scikit-learn, LangGraph
+* 🛢️ **Databases:** SQL, MongoDB, Neo4j
 
+---
